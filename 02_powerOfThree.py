@@ -1,8 +1,8 @@
 import math
 
 # https://www.w3resource.com/python-exercises/challenges/1/index.php
-# 1. Write a Python program to check if a given positive integer is a power of two. 
-# Input : 4
+# 2. Write a Python program to check if a given positive integer is a power of three. Go to the editor
+# Input : 9
 # Output : True
 
 def isPowerOfThree(n):
